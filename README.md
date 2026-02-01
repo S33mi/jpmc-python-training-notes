@@ -1,3 +1,33 @@
+# JPMorgan Chase Python Training for Business Analysts & Traders  
+(Forked & Personalized from https://github.com/jpmorganchase/python-training)
+
+Completed this official JPMC training to build Python skills for numerical computing, data visualization, and finance/business applications.
+
+## My Work & Additions
+- Ran all key notebooks in Google Colab (no local setup required).
+- Personalized modifications:
+  - Added extra comments/explanations for self-study.
+  - Extended examples (e.g., varied volatility in straddle payoff diagrams, alternative plot styles).
+  - Experimented with small tweaks for better understanding (e.g., different parameters or data subsets).
+- Tied to my portfolio: Complements my EDA reimplementation, fraud anomaly detection, and optimization projects — building toward data/business analyst skills in finance contexts.
+
+## Key Notebooks Completed
+- Intro to numerical computing & arrays.
+- Straddle payoff visualization (financial options example).
+- Other plotting & viz demos.
+
+## Why This Training?
+- Directly relevant to JPMorgan's analyst roles (data handling, quick insights, financial viz).
+- Shows proactive learning of Python for business/finance use cases.
+
+Original repo: https://github.com/jpmorganchase/python-training  
+My main GitHub: https://github.com/S33mi  
+Fun side: @Seemi_Rauf on X
+
+Feel free to star, fork, or reach out for discussions! 🚀
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
 <img width="50%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/J_P_Morgan_Logo_2008_1.svg/1280px-J_P_Morgan_Logo_2008_1.svg.png">
 
 # Python Training
